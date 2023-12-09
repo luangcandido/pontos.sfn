@@ -1,0 +1,13 @@
+Package: pontos.sfn
+Title: Agências e Postos de Atendimento do SFN
+Version: 0.0.0.9000
+Authors@R: person('Luan G.', 'Cândido', email = 'luan@dieese.org.br', role = c('cre', 'aut'))
+Description: Aplicativo voltado a exploração dos microdados de agências, postos de atendimento e postos de atendimento eletrônico do SFN, divulgados pelo BCB. Em construção.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    shiny (>= 1.7.5.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
